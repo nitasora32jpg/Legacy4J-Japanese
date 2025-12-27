@@ -1,3 +1,5 @@
+The Japanese text is from the Nintendo Switch Edition or ChatGPT.
+
 <img src="https://github.com/Kyubion-Studios/Legacy4J-Branding/blob/main/banners/modpage_banner.png?raw=true" alt="Legacy4J Themed Banner" width="600" >
 <p></p>
 
